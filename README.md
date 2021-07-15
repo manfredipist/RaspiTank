@@ -2,9 +2,9 @@
 
 "Hope", a RaspberryPi-based tank robot which dreams to walk around home autonomously.
 
-![Hope_front](https://github.com/manfredipist/RaspiTank/blob/master/doc/images/front.png?raw=true)
-![Hope_side](https://github.com/manfredipist/RaspiTank/blob/master/doc/images/side.png?raw=true)
-![Hope_qr_recognition](https://github.com/manfredipist/RaspiTank/blob/master/doc/images/qrcode.png?raw=true)
+![Hope_front](https://github.com/manfredipist/RaspiTank/blob/main/doc/images/front.png?raw=true)
+![Hope_side](https://github.com/manfredipist/RaspiTank/blob/main/doc/images/side.png?raw=true)
+![Hope_qr_recognition](https://github.com/manfredipist/RaspiTank/blob/main/doc/images/qrcode.png?raw=true)
 
 **DISCLAIMER**: :construction: This project is far from complete, don't expect everything to work flawlessly out of the box
 
@@ -64,9 +64,9 @@ The project is made up of 5 main folders:
 5. **PiWidgets** - contains the GUI Widget that are injected into the MainWindow by PiController class.
   - Status: Completed :white_check_mark:
 
-![RaspiTankGUI](https://github.com/manfredipist/RaspiTank/blob/master/doc/images/raspiTank_1.png?raw=true)
-![RaspiTankGUI](https://github.com/manfredipist/RaspiTank/blob/master/doc/images/raspiTank_2.png?raw=true)
-![RaspiTankGUI](https://github.com/manfredipist/RaspiTank/blob/master/doc/images/raspiTank_3.png?raw=true)
+![RaspiTankGUI](https://github.com/manfredipist/RaspiTank/blob/main/doc/images/raspiTank_1.png?raw=true)
+![RaspiTankGUI](https://github.com/manfredipist/RaspiTank/blob/main/doc/images/raspiTank_2.png?raw=true)
+![RaspiTankGUI](https://github.com/manfredipist/RaspiTank/blob/main/doc/images/raspiTank_3.png?raw=true)
 
 ## The Build
 I will try to upload a guide to build Hope from scratch, i gotta check my phone to retrieve some old photos when i was building it. To make it simple, Hope is built on 3 levels:
