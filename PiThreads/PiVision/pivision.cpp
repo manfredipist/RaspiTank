@@ -126,7 +126,7 @@ void PiVision::loop(){
         Mat capture = piCamera->getVideoCaptureCV();
 
         vector<Point> corners;
-        if(piCameraController->isQRDetectionEnabled())
+        if(piCameraController->isQRDetectionEnabled()) //must add check on corners, contourArea(src_points)' is 0 must be greater than '0.0' is 0
             processQRCodeDetection(qrcode, capture, capture, corners);
 
         piCameraController->refreshFrame(capture);
