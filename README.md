@@ -74,4 +74,6 @@ I will try to upload a guide to build Hope from scratch, i gotta check my phone 
 - On the middle level you can find all the sensors i've been using as well as 4 18650 batteries to power up all the sensors and the motors
 - At the toppest level you can find the RPi, the camera and the UPS to power up the RPi
 
-## The project
+## Hope in Action
+
+I will add a video ASAP
