@@ -1,6 +1,6 @@
 # RaspiTank
 
-"Hope", a RaspberryPi-based tank robot which dreams to walk around home autonomously.
+"Hope", a RaspberryPi-based tank robot that walks around home autonomously.
 
 ![Hope_front](https://github.com/manfredipist/RaspiTank/blob/main/doc/images/front.png?raw=true)
 ![Hope_side](https://github.com/manfredipist/RaspiTank/blob/main/doc/images/side.png?raw=true)
